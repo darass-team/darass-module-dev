@@ -5,7 +5,7 @@
 
 [[redirects]]
   from = "/embed.js"
-  to = "https://deploy-script.darass.co.kr/embed.js"
+  to = "https://deploy-script.dev.darass.co.kr/embed.js"
   status = 301
 
 

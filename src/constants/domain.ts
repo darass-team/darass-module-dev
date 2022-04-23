@@ -4,7 +4,7 @@ const REPLY_MODULE_DOMAIN_TABLE = {
   // production: "https://reply-module.darass.co.kr",
   // development: "https://reply-module.darass.co.kr",
   production: "https://reply-module.dev.darass.co.kr",
-  development: "https://reply-module.darass.co.kr",
+  development: "https://reply-module.dev.darass.co.kr",
   localhost: "https://localhost:3000"
 } as BUILD_MODE_TABLE;
 
